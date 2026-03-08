@@ -270,12 +270,11 @@ Threshold: 0.70 | MRR: 0.5654 | Hit@10: 68.7%
 If you use FinRAG-Equinor in your research, please cite:
 
 ```bibtex
-@inproceedings{yang2026finrag,
+@article{yang2025finrag,
   title={FinRAG-Equinor: A Human-Validated Benchmark for Long-Form Financial Document Question Answering},
   author={Yang, Xiaojing},
-  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year={2026},
-  url={https://arxiv.org/abs/XXXX.XXXXX}
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2025}
 }
 ```
 
@@ -310,7 +309,7 @@ See [LICENSE](LICENSE) for full details.
 ## 🙏 Acknowledgments
 
 - **Data Source**: Equinor ASA annual reports (2010–2024), publicly available at [https://www.equinor.com/investors](https://www.equinor.com/investors)
-- **Annotators**: We thank the two annotators for their careful validation work (compensated at $25/hour)
+- **Annotators**: Both annotators are co-authors of this work and contributed without monetary compensation.
 - **Funding**: This work was supported by Uppsala University, Department of Linguistics and Philology
 
 ---
